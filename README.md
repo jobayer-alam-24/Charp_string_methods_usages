@@ -1,1 +1,3 @@
-# Charp_string_methods_usages
+# Uses of C# string methods counting(vowel, consonants and .......)
+## Output....
+![alt text](<Screenshot 2024-08-17 132422.png>)

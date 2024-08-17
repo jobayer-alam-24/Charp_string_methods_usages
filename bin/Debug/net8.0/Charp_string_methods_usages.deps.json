@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Charp_string_methods_usages/1.0.0": {
+        "runtime": {
+          "Charp_string_methods_usages.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Charp_string_methods_usages/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

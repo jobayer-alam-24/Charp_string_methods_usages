@@ -1,0 +1,15 @@
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\bin\Debug\net8.0\Charp_string_methods_usages.exe
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\bin\Debug\net8.0\Charp_string_methods_usages.deps.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\bin\Debug\net8.0\Charp_string_methods_usages.runtimeconfig.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\bin\Debug\net8.0\Charp_string_methods_usages.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\bin\Debug\net8.0\Charp_string_methods_usages.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.AssemblyInfoInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.AssemblyInfo.cs
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.csproj.CoreCompileInputs.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.sourcelink.json
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\refint\Charp_string_methods_usages.dll
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.pdb
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\Charp_string_methods_usages.genruntimeconfig.cache
+C:\Users\JOBAYER\OneDrive\Tài liệu\Charp_string_methods_usages\obj\Debug\net8.0\ref\Charp_string_methods_usages.dll
